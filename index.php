@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <script src="https://unpkg.com/@tailwindcss/browser@4"></script>
   <style>
     .max-w-custom {
@@ -13,8 +14,10 @@
     <div class="relative">
       <?php include 'nav.php'; ?>
       <div>
-        <video src="banner.mp4" class="w-full" autoplay muted loop id="banner"></video>
-        <div class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-white font-serif text-center">
+        <div class="relative overflow-hidden">
+          <video src="banner.mp4" class="w-full md:h-auto h-[50vh] object-cover" autoplay muted loop id="banner"></video>
+        </div>
+        <div class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 mt-8 text-white font-serif text-center">
           <div class="lg:text-6xl md:text-3xl text-lg">No Entry Studio.</div>
           <div class="lg:text-xl md:text-xl text-sm">We are the next generation of filmmakers</div>
         </div>
@@ -44,11 +47,6 @@
       </div>
     </div>
 
-    <style>
-      #menu-toggle:checked ~ #mobile-menu {
-        display: block;
-      }
-    </style>
     <script>
       window.addEventListener('resize', function() {
         if (window.innerWidth >= 768) {
