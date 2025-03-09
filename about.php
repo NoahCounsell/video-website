@@ -24,13 +24,21 @@
     </div>
       </div>
       <div class="w-full h-auto p-10 space-y-2">
-        <div class="text-4xl font-extralight">Who i am</div>
-        <div class="max-w-[1100px] font-extralight text-lg">i am a solo filmmaker based in the brighton area, i love making films for small companies and upcoming artists, although i am always open new outhere projects as long as you are.</div>
-        <div class="text-4xl font-extralight">The important stuff</div>
-        <ul class="list-['-'] ml-5">
-          <li class="pl-2 font-extralight">I have been the main photographer at a wedding</li>
-          <li class="pl-2 font-extralight">I have created promotional videos and images for a store in the brighton food market</li>
-        </ul>
+        <div class="flex lg:flex-row md:flex-row flex-col">
+          <div class="w-full md:w-3/4 lg:w-3/4 pb-5">
+            <div class="text-4xl font-extralight">Who am i</div>
+            <div class="max-w-[1100px] font-extralight text-sm md:text-lg">I am a solo filmmaker based in the brighton area, my other skills photography and web development</div>
+            <div class="pt-5">
+            <div class="text-3xl font-extralight">You can tell you freinds that...</div>
+              <ul class="list-['-'] ml-5">
+                <li class="pl-2 font-extralight">Your videos were shot at 4k 120fps.</li>
+                <li class="pl-2 font-extralight">Your images have a resolotion of 24mp.</li>
+                <li class="pl-2 font-extralight">All the music is royalty free.</li>
+              </ul>
+            </div>
+          </div>
+          <img src="BIO_SHOT.jpg" alt="" class="w-full md:w-1/4 lg:w-1/4">
+        </div>
       </div>
         <script src="" async defer></script>
     </body>
