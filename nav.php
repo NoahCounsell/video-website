@@ -1,4 +1,4 @@
-<nav class="bg-white p-4 absolute w-full z-10">
+<nav class="bg-transparent p-4 absolute w-full z-10">
         <div class="max-w-7xl mx-auto relative">
           <input type="checkbox" id="menu-toggle" class="hidden peer">
           <div class="flex items-center justify-between">
