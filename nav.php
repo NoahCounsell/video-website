@@ -1,4 +1,4 @@
-<nav class="bg-white p-4 absolute w-full z-10">
+<nav class="bg-transparent p-4 absolute w-full z-10">
         <div class="max-w-7xl mx-auto relative">
           <input type="checkbox" id="menu-toggle" class="hidden peer">
           <div class="flex items-center justify-between">
@@ -6,10 +6,10 @@
               <img src="no_entry_studio_logo.png" alt="" class="h-full">
             </div>
             <div class="hidden md:flex space-x-8 relative z-20">
-              <a href="index.php" class="text-black text-xl font-extralight hover:text-gray-600 transition-colors">Home</a>
-              <a href="about.php" class="text-black text-xl font-extralight hover:text-gray-600 transition-colors">About</a>
-              <a href="#" class="text-black text-xl font-extralight hover:text-gray-600 transition-colors">Services</a>
-              <a href="#" class="text-black text-xl font-extralight hover:text-gray-600 transition-colors">Contact</a>
+              <a href="index.php" class="text-white text-xl font-extralight hover:text-gray-200 transition-colors">Home</a>
+              <a href="about.php" class="text-white text-xl font-extralight hover:text-gray-200 transition-colors">About</a>
+              <a href="#" class="text-white text-xl font-extralight hover:text-gray-200 transition-colors">Services</a>
+              <a href="#" class="text-white text-xl font-extralight hover:text-gray-200 transition-colors">Contact</a>
             </div>
             <div class="md:hidden relative z-20">
               <label for="menu-toggle" class="cursor-pointer text-black block p-2">
