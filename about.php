@@ -34,6 +34,7 @@
                 <li class="pl-2 font-extralight">Your videos were shot at 4k 120fps.</li>
                 <li class="pl-2 font-extralight">Your images have a resolotion of 24mp.</li>
                 <li class="pl-2 font-extralight">All the music is royalty free.</li>
+                <li class="pl-2 font-extralight">your videos where edited using profesional grade software from apple and adobe</li>
               </ul>
             </div>
           </div>
