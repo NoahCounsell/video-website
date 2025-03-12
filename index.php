@@ -18,8 +18,8 @@
           <video src="banner.mp4" class="w-full md:h-auto h-[50vh] object-cover" autoplay muted loop id="banner"></video>
         </div>
         <div class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 mt-8 text-white font-serif text-center">
-          <div class="lg:text-6xl md:text-3xl text-lg">No Entry Studio.</div>
-          <div class="lg:text-xl md:text-xl text-sm">We are the next generation of filmmakers</div>
+          <div class="lg:text-6xl md:text-3xl text-2xl">No Entry Studio.</div>
+          <div class="lg:text-xl md:text-xl text-md">We are the next generation of filmmakers</div>
         </div>
       </div>
     </div>

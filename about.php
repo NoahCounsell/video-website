@@ -17,8 +17,8 @@
           <video src="banner.mp4" class="w-full md:h-auto h-[50vh] object-cover" autoplay muted loop id="banner"></video>
         </div>
         <div class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 mt-8 text-white font-serif text-center">
-          <div class="lg:text-6xl md:text-3xl text-lg">About Us.</div>
-          <div class="lg:text-xl md:text-xl text-sm">We are the next generation of filmmakers</div>
+          <div class="lg:text-6xl md:text-3xl text-2xl">About Us.</div>
+          <div class="lg:text-xl md:text-xl text-md">We are the next generation of filmmakers</div>
         </div>
       </div>
     </div>
@@ -34,11 +34,15 @@
                 <li class="pl-2 font-extralight">Your videos were shot at 4k 120fps.</li>
                 <li class="pl-2 font-extralight">Your images have a resolotion of 24mp.</li>
                 <li class="pl-2 font-extralight">All the music is royalty free.</li>
-                <li class="pl-2 font-extralight">your videos where edited using profesional grade software from apple and adobe</li>
+                <li class="pl-2 font-extralight">Your videos where edited using profesional grade software from apple and adobe.</li>
+                <li class="pl-2 font-extralight">All the content is original and created exclusively for you.</li>
               </ul>
             </div>
           </div>
-          <img src="BIO_SHOT.jpg" alt="" class="w-full md:w-1/4 lg:w-1/4">
+          <div class="md:w-1/4 lg:w-1/4">
+          <img src="BIO_SHOT.jpg" alt="" class="w-full">
+          <div class="text-sm text-gray-600 pt-[1px]">Me</div>
+          </div>
         </div>
       </div>
         <script src="" async defer></script>
