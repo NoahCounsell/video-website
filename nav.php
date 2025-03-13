@@ -22,7 +22,7 @@
           <div class="hidden peer-checked:block md:hidden mt-4 bg-[#fcb040] relative z-20">
             <a href="index.php" class="block text-black py-3 px-4 text-lg hover:bg-gray-100 transition-colors">Home</a>
             <a href="about.php" class="block text-black py-3 px-4 text-lg hover:bg-gray-100 transition-colors">About</a>
-            <a href="#" class="block text-black py-3 px-4 text-lg hover:bg-gray-100 transition-colors">Services</a>
+            <a href="services.php" class="block text-black py-3 px-4 text-lg hover:bg-gray-100 transition-colors">Services</a>
             <a href="#" class="block text-black py-3 px-4 text-lg hover:bg-gray-100 transition-colors">Contact</a>
           </div>
         </div>
