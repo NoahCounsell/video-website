@@ -8,7 +8,7 @@
             <div class="hidden md:flex space-x-8 relative z-20">
               <a href="index.php" class="text-white text-xl font-extralight hover:text-gray-200 transition-colors">Home</a>
               <a href="about.php" class="text-white text-xl font-extralight hover:text-gray-200 transition-colors">About</a>
-              <a href="#" class="text-white text-xl font-extralight hover:text-gray-200 transition-colors">Services</a>
+              <a href="services.php" class="text-white text-xl font-extralight hover:text-gray-200 transition-colors">Services</a>
               <a href="#" class="text-white text-xl font-extralight hover:text-gray-200 transition-colors">Contact</a>
             </div>
             <div class="md:hidden relative z-20">
