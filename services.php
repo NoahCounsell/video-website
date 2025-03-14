@@ -31,7 +31,7 @@
                 <ul class="list-['-'] ml-5">
                     <li class="pl-2">Music Videos</li>
                     <li class="pl-2">Product comercials</li>
-                    <li class="pl-2">Short films about what ever you want ! (15mins max)</li>
+                    <li class="pl-2">Short films about what ever you want. (15mins max)</li>
                 </ul>
             </div>
             <div class="pt-6">
