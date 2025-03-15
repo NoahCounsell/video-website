@@ -6,8 +6,7 @@
         <title></title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="">
-        <script src="https://unpkg.com/@tailwindcss/browser@4"></script>
+        <script src="https://cdn.tailwindcss.com"></script>
     </head>
     <body>
     <div class="relative">
