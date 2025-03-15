@@ -45,5 +45,6 @@
         </div>
       </div>
         <script src="" async defer></script>
+        <?php include 'footer.php'; ?>
     </body>
 </html>

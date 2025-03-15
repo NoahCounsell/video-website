@@ -42,16 +42,8 @@
                     <li class="pl-2">Artist profiles (see 'Deeper Minds')</li>
                 </ul>
             </div>
-            <!-- <div class="pt-6">
-                <div class="text-2xl text-center md:text-left">Other</div>
-                <div class="pb-1">this is an area we think is supper impportant when growing any presence weather online or elsewhere digital media maters its what draws people in.</div>
-                <ul class="list-['-'] ml-5">
-                    <li class="pl-2">Web design</li>
-                    <li class="pl-2">photomanipulation</li>
-                    <li class="pl-2"></li>
-                </ul>
-            </div> -->
         </div>
         <script src="" async defer></script>
+        <?php include 'footer.php'; ?>
     </body>
 </html>
