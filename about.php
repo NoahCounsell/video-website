@@ -27,20 +27,10 @@
           <div class="w-full md:w-3/4 lg:w-3/4 pb-5">
             <div class="text-4xl font-extralight">Who am i</div>
             <div class="max-w-[1100px] font-extralight text-sm md:text-lg">I am a solo filmmaker based in the brighton area, my other skills photography and web development</div>
-            <div class="pt-5">
-            <div class="text-3xl font-extralight">You can tell you freinds that...</div>
-              <ul class="list-['-'] ml-5">
-                <li class="pl-2 font-extralight">Your videos were shot at 4k 120fps.</li>
-                <li class="pl-2 font-extralight">Your images have a resolotion of 24mp.</li>
-                <li class="pl-2 font-extralight">All the music is royalty free.</li>
-                <li class="pl-2 font-extralight">Your videos where edited using profesional grade software from apple and adobe.</li>
-                <li class="pl-2 font-extralight">All the content is original and created exclusively for you.</li>
-              </ul>
-            </div>
           </div>
           <div class="md:w-1/4 lg:w-1/4">
-          <img src="BIO_SHOT.jpg" alt="" class="w-full">
-          <div class="text-sm text-gray-600 pt-[1px]">Me</div>
+            <img src="BIO_SHOT.jpg" alt="" class="w-full">
+            <div class="text-sm text-gray-600 pt-[1px]">Me</div>
           </div>
         </div>
       </div>

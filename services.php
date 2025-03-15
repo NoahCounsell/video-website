@@ -21,10 +21,11 @@
             </div>
           </div>
         </div>
-        <div class=" p-10 w-full h-auto font-extralight">
+        <div class="p-4 md:p-10 w-full h-auto font-extralight">
             <div class="text-4xl text-center md:text-left">Services</div>
             <div class="text-lg text-center md:text-left">No Entry Studio is a company devoted to creating unique videos for companies and indevidials..</div>
-            <div class="pt-6">
+
+            <div class="mt-6 bg-orange-100 p-2">
                 <div class="text-2xl text-center md:text-left">Videography</div>
                 <div class="pb-1">this is an area we think is supper impportant when growing any presence weather online or elsewhere digital media maters its what draws people in.</div>
                 <ul class="list-['-'] ml-5">
@@ -33,13 +34,23 @@
                     <li class="pl-2">Short films about what ever you want ! (15mins max)</li>
                 </ul>
             </div>
-            <div class="pt-6">
+            <div class="mt-6 bg-blue-100 p-2">
                 <div class="text-2xl text-center md:text-left">Photography</div>
                 <div class="pb-1">this is an area we think is supper impportant when growing any presence weather online or elsewhere digital media maters its what draws people in.</div>
                 <ul class="list-['-'] ml-5">
                     <li class="pl-2">Product Photography</li>
                     <li class="pl-2">Portrature / famaly photos / profile pictures</li>
                     <li class="pl-2">Artist profiles (see 'Deeper Minds')</li>
+                </ul>
+            </div>
+            <div class="mt-6 bg-purple-100 p-2">
+                <div class="text-2xl text-center md:text-left">You can tell your friends that...</div>
+                <ul class="list-['-'] ml-5">
+                    <li class="pl-2 font-extralight">Your videos were shot at 4k 120fps.</li>
+                    <li class="pl-2 font-extralight">Your images have a resolotion of 24mp.</li>
+                    <li class="pl-2 font-extralight">All the music is royalty free.</li>
+                    <li class="pl-2 font-extralight">Your videos where edited using profesional grade software from apple and adobe.</li>
+                    <li class="pl-2 font-extralight">All the content is original and created exclusively for you.</li>
                 </ul>
             </div>
         </div>
