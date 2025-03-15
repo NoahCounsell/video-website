@@ -23,7 +23,10 @@
         </div>
       </div>
     </div>
-
+    <div class="px-4 py-12 flex flex-col justify-center items-center">
+        <h2 class="text-3xl font-extralight text-center mb-8">NEW RELEASES</h2>
+        <iframe class="w-full md:w-[70%] h-auto aspect-video" src="https://www.youtube.com/embed/TDpxZSv9gqk?si=mmdjyCoInnX3id6d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
     <div class="max-w-[1400px] mx-auto px-4 py-12 sm:px-6 lg:px-8">
       <h2 class="text-3xl font-extralight text-center mb-8">PASSION PROJECTS</h2>
       
