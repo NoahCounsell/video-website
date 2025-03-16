@@ -15,7 +15,8 @@
       <?php include 'nav.php'; ?>
       <div>
         <div class="relative overflow-hidden">
-          <video src="banner.mp4" class="w-full md:h-auto h-[50vh] object-cover" autoplay muted loop id="banner"></video>
+          <video src="banner.mp4" class="hidden md:block w-full md:h-auto h-[50vh] object-cover" autoplay muted loop id="banner"></video>
+          <img src="mobile-banner.png" class="md:hidden w-full h-[50vh] object-cover" alt="Mobile banner">
         </div>
         <div class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 mt-8 text-white font-serif text-center">
           <div class="lg:text-6xl md:text-3xl text-2xl">No Entry Studio.</div>
@@ -24,7 +25,7 @@
       </div>
     </div>
     <div class="px-4 py-12 flex flex-col justify-center items-center">
-        <h2 class="text-3xl font-extralight text-center mb-8">NEW RELEASES</h2>
+        <h2 class="text-3xl font-extralight text-center mb-8">NEW RELEASE</h2>
         <iframe class="w-full md:w-[70%] h-auto aspect-video" src="https://www.youtube.com/embed/TDpxZSv9gqk?si=mmdjyCoInnX3id6d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
     <div class="max-w-[1400px] mx-auto px-4 py-12 sm:px-6 lg:px-8">
