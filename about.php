@@ -25,7 +25,7 @@
       <div class="w-full h-auto p-10 space-y-2">
         <div class="flex lg:flex-row md:flex-row flex-col">
           <div class="w-full md:w-3/4 lg:w-3/4 pb-5">
-            <div class="text-4xl font-extralight">Who am i</div>
+            <div class="text-4xl font-extralight">Who am I</div>
             <div class="max-w-[1100px] font-extralight text-sm md:text-lg">I am a solo filmmaker based in the Brighton area, passionate about creating films that truly move people and evoke raw emotion. I strive to craft stories that resonate deeply, leaving a lasting impact on audiences. Always open to new opportunities, I love collaborating with like-minded individuals and companies to bring powerful ideas to life.</div>
           </div>
           <div class="md:w-1/4 lg:w-1/4">
