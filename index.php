@@ -20,7 +20,7 @@
         </div>
         <div class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 mt-8 text-white font-serif text-center">
           <div class="lg:text-6xl md:text-3xl text-2xl">No Entry Studio.</div>
-          <div class="lg:text-xl md:text-xl text-md">Indie Filmakers With a passion for what they do</div>
+          <div class="lg:text-xl md:text-xl text-md">Indie Films of the highest qauility</div>
         </div>
       </div>
     </div>

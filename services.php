@@ -18,7 +18,7 @@
             </div>
             <div class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 mt-8 text-white font-serif text-center">
               <div class="lg:text-6xl md:text-3xl text-2xl">No Entry Studio.</div>
-              <div class="lg:text-xl md:text-xl text-md">We are the next generation of filmmakers</div>
+              <div class="lg:text-xl md:text-xl text-md">I am committed to providing the highest quality I can.</div>
             </div>
           </div>
         </div>
@@ -28,7 +28,7 @@
 
             <div class="mt-6 bg-orange-100 p-2">
                 <div class="text-2xl text-center md:text-left">Videography</div>
-                <div class="pb-1">We provide 16:9 & 3:4 aspect ratio footage as well as 4K realtime videos and HD slow motion, and options for portrait or landscape footage.</div>
+                <div class="pb-1">I provide 16:9 & 3:4 aspect ratio footage as well as 4K realtime videos and HD slow motion, and options for portrait or landscape footage.</div>
                 <ul class="list-['-'] ml-5">
                     <li class="pl-2">Music Videos</li>
                     <li class="pl-2">Interviews</li>
@@ -57,7 +57,7 @@
             </div>
 
             <div class="mt-6 bg-gray-100 p-2">
-                <div class="pl-2 font-extralight"><span>* </span>All realtime 24fps videos are taken in camera at 4K, the videos may undergo post production process that alter resolution or if you request slow motion (120fps) the resolution will be compromised</div>
+                <div class="pl-2 font-extralight"><span>* </span>All realtime 24fps videos are taken in camera at 4K. The videos may undergo post-production processes that alter resolution, or if you request slow motion (120fps), the resolution will be compromised.</div>
             </div>
 
         </div>

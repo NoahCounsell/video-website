@@ -27,7 +27,7 @@
         <div class="flex lg:flex-row md:flex-row flex-col">
           <div class="w-full md:w-3/4 lg:w-3/4 pb-5 pr-5">
             <div class="text-4xl font-extralight">Who am I</div>
-            <div class="max-w-[1100px] font-extralight text-base md:text-lg">I am a solo filmmaker based in the Brighton area, passionate about creating films that resonate with people, I love collaborating with like-minded individuals and companies to bring powerful ideas to life. if you think i can offer somthing you need, hit me up and we can get started right away</div>
+            <div class="max-w-[1100px] font-extralight text-base md:text-lg">I am a solo filmmaker based in the Brighton area, passionate about creating films that resonate with people. I love collaborating with like-minded individuals and companies to bring powerful ideas to life. If you think I can offer something you need, hit me up and we can get started right away.</div>
           </div>
           <div class="md:w-1/4 lg:w-1/4">
             <img src="BIO_SHOT.jpg" alt="" class="w-full">
