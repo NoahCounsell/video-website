@@ -20,13 +20,13 @@
         </div>
         <div class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 mt-8 text-white font-serif text-center">
           <div class="lg:text-6xl md:text-3xl text-2xl">No Entry Studio.</div>
-          <div class="lg:text-xl md:text-xl text-md">We are the next generation of filmmakers</div>
+          <div class="lg:text-xl md:text-xl text-md">Indie Filmakers With a passion for what they do</div>
         </div>
       </div>
     </div>
     <div class="px-4 py-12 flex flex-col justify-center items-center">
         <h2 class="text-3xl font-extralight text-center mb-8">NEW RELEASE</h2>
-        <iframe class="w-full md:w-[70%] h-auto aspect-video" src="https://www.youtube.com/embed/TDpxZSv9gqk?si=mmdjyCoInnX3id6d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe class="w-full md:w-[70%] h-auto aspect-video" src="https://www.youtube.com/embed/lXfci7DFb9I?si=8eSIry6Sw4VD65EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
     <div class="max-w-[1400px] mx-auto px-4 py-12 sm:px-6 lg:px-8">
       <h2 class="text-3xl font-extralight text-center mb-8">PASSION PROJECTS</h2>
@@ -48,9 +48,15 @@
         <div class="aspect-video">
           <iframe class="w-full h-full" src="https://www.youtube.com/embed/ZeeROu3ME1c?si=yw4PuPCE0q7Kqzx5" frameborder="0" allowfullscreen></iframe>
         </div>
+
+        <div class="aspect-video flex items-center justify-center bg-gray-100">
+          <a href="https://www.youtube.com/@noentrystudio" class="text-center p-4">
+            <div class="text-xl font-extralight mb-2">Find More Videos</div>
+            <div class="text-blue-600 hover:text-blue-800">@noentrystudio</div>
+          </a>
+        </div>
       </div>
     </div>
-
     <script>
       window.addEventListener('resize', function() {
         if (window.innerWidth >= 768) {
