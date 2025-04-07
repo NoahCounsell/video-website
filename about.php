@@ -17,8 +17,8 @@
           <img src="mobile-banner.png" class="md:hidden w-full h-[50vh] object-cover" alt="Mobile banner">
         </div>
         <div class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 mt-8 text-white font-serif text-center">
-          <div class="lg:text-6xl md:text-3xl text-2xl">About Us.</div>
-          <div class="lg:text-xl md:text-xl text-md">We are the next generation of filmmakers</div>
+          <div class="lg:text-6xl md:text-3xl text-2xl">About The Studio</div>
+          <div class="lg:text-xl md:text-xl text-md"></div>
         </div>
       </div>
     </div>

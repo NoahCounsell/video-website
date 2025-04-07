@@ -38,7 +38,7 @@
 
             <div class="mt-6 bg-blue-100 p-2">
                 <div class="text-2xl text-center md:text-left">Photography</div>
-                <div class="pb-1">If you sell products, photos are a no-brainer. If you are an upcoming model, your portfolio is everything. We can help you.</div>
+                <div class="pb-1">In today's world, visuals are everything. Whether you're selling products or building your modeling portfolio, good photos are a non-negotiable.</div>
                 <ul class="list-['-'] ml-5">
                     <li class="pl-2">Product Photography</li>
                     <li class="pl-2">Portraiture / Group Portraiture</li>
